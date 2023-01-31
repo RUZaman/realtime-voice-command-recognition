@@ -19,3 +19,12 @@ Build your own real-time voice command recognition model with TensorFlow.
 
 ![Demo](demo.png)
 
+
+
+
+
+
+youtube tutorial 
+https://www.youtube.com/watch?v=m-JzldXm9bQ&t=209s
+
+
